@@ -1,0 +1,23 @@
+{
+    "experiences": [
+        {
+            "title": "IT Club",
+            "subtitle": "SMK Pasundan 2 BDG",
+            "workType": "Organitation",
+            "workDescription": [
+                "Become a it support on every end-of-semester competency exam.",
+                "Participated in the national level competition at the Olimpiade Jaringan Mikrotik."
+            ],
+            "dateText": " 07/2022 – Present"
+        },
+        {
+            "title": "Refubish & Recovery",
+            "subtitle": "PT Inti Pindad Mitra Sejati (IPMS)",
+            "workType": "Internship",
+            "workDescription": [
+                "Repaired damaged ONT (Optical Network Terminal) devices and repackaged them."
+            ],
+            "dateText": "09/2022 – 11/2022"
+        }
+    ]
+}

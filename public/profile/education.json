@@ -1,0 +1,32 @@
+{
+    "education":[
+        {
+            "title": "Jul 2021 - Now",
+            "cardTitle": "Vocational High School",
+            "cardSubtitle":"SMK Pasundan 2, Kota Bandung",
+            "cardDetailedText": "Avarage - ",
+            "icon" : {
+                "src": "images/education/smk.png"
+            }
+        },
+        {
+            "title": "Jul 2018 - Jun 2021",
+            "cardTitle": "Junior High School",
+            "cardSubtitle":"SMP Pasundan 7, Kota Bandung",
+            "cardDetailedText": "Avarage - 82,18",
+		 "icon" : {
+                "src": "images/education/smp.png"
+            }
+        },
+	{
+            "title": "Jul 2012 - Jun 2018",
+            "cardTitle": "Elementary School",
+            "cardSubtitle":"SDN 080 Bojong Indah Cibuntu, Kota Bandung",
+            "cardDetailedText": "Avarage - 86,13",
+		 "icon" : {
+                "src": "images/education/sd.png"
+            }
+
+        }
+    ]
+}

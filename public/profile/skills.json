@@ -1,0 +1,40 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major, tools and platforms I have worked with:",
+    "skills": [{
+
+ "title": "Tools & Platforms Networking",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/mikrotik.png",
+                    "title": "Mikrotik"
+                },
+                {
+                    "icon": "images/skills/winbox.png",
+                    "title": "Winbox"
+                },
+                {
+                    "icon": "images/skills/pnetlab.png",
+                    "title": "Pnetlab"
+                }
+        ]},
+	{
+            "title" : "Tools & Platforms SysAdmin",
+            "items": [
+                {
+                    "icon": "images/skills/ubuntu.png",
+                    "title": "Ubuntu"
+                },
+		{
+                    "icon": "images/skills/debian.png",
+                    "title": "Debian"
+                },
+		{
+                    "icon": "images/skills/vbox.png",
+                    "title": "VirtualBox"
+                }
+
+
+            ]
+    }
+]}
